@@ -1,4 +1,5 @@
 # TeamTrack 
+As we grow older, our responsibilities tend to increase. With these increased responsibilities, Our day to day lives often times become extremely disorganized. Our app, TeamTrack, intends to help bring the organization back into our users live s by implementing a scheduling system that keeps track of our users plans and activities. Our user will also most likely have to work in a group setting and with that scheduling problems often arise. To combat this, we intend to add a team function where users can add each other as friends on the app where you can make plans together taking the hassle out of trying to make plans.
 
 ## User Guide
 To use our app, Team Tracker, follow these steps:
@@ -44,3 +45,5 @@ To install the app, follow these steps:
 - Open the code editor and navigate to the cloned repository.
 - Run the command "expo start" to start the emulator.
 - If you encounter any problems, please seek assistance.
+
+
