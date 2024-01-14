@@ -28,3 +28,19 @@ To use our app, Team Tracker, follow these steps:
 - Select a month to view tasks and reminders for that month.
   
 Once you've read the user guide, click the "Back to Home" button to return.
+
+## IT Guide
+To install the app, follow these steps:
+- Clone the repository onto your code editor.
+- Ensure you have the following system requirements:
+   - For Windows: Windows XP, Windows 7 (32/64 bit) or higher.
+   - For Android: Requires Android 6.0 (Marshmallow) SDK or later.
+   - Minimum 4 GB RAM (8 GB RAM recommended).
+   - At least 10 GB of available space on the hard disk.
+   - An internet browser such as Chrome, Firefox, or Microsoft Edge.
+   - Node.js installed on your system.
+   - Active internet connection with a minimum speed of 512kbps.
+   - At least one installed code editor, such as VScode (Visual Studio Code), Android Studio, Atom, or Sublime.
+- Open the code editor and navigate to the cloned repository.
+- Run the command "expo start" to start the emulator.
+- If you encounter any problems, please seek assistance.
